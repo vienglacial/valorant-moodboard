@@ -1,0 +1,25 @@
+VALORANT — MOODBOARD HTML5
+
+CÁCH MỞ TRÊN WINDOWS
+1. Giải nén toàn bộ thư mục nếu bạn nhận file ZIP.
+2. Bấm đúp MO_MOODBOARD.cmd. Moodboard tự mở trong trình duyệt.
+3. Bấm Play ở video muốn xem. Cần kết nối Internet để phát YouTube.
+4. Bấm Trình chiếu. Dùng mũi tên trái/phải để chuyển trang, Esc để thoát.
+
+BẢN NÀY CÓ GÌ?
+• 7 trang: tinh thần, màu sắc, ánh sáng, tình bạn/comedy, nhịp dựng, ngôn ngữ game, ứng dụng.
+• 6 khung YouTube tham chiếu, có liên kết Mở YouTube dự phòng.
+• Bảng màu, hình concept từ board tập 5, mô phỏng nhịp dựng 4,5 giây.
+• Bố cục tự điều chỉnh cho điện thoại và máy tính.
+
+LƯU VÀ GỬI
+Gửi cả file ZIP hoặc cả thư mục; giữ index.html, style.css, app.js và assets cùng nhau.
+Bấm index.html vẫn xem được nội dung, nhưng trình duyệt có thể chặn YouTube khi mở file trực tiếp. Trên Windows hãy dùng MO_MOODBOARD.cmd để phát trong trang.
+Trên Mac hoặc điện thoại, xem qua một máy chủ web do bạn chọn; nút Mở YouTube luôn có sẵn.
+Bản này chưa được tải lên dịch vụ lưu trữ web.
+
+NÚT MỞ HOẠT ĐỘNG THẾ NÀO?
+Nút mở dùng PowerShell có sẵn trong Windows để phục vụ các file tĩnh trên địa chỉ 127.0.0.1, chỉ tại máy đang mở. Không nhận kết nối từ máy khác, không cần cài đặt hay quyền quản trị. Tự dừng sau 30 phút không tải trang hoặc tối đa 4 giờ. Muốn mở lại thì bấm nút mở lần nữa.
+
+THAM CHIẾU
+Video phát từ kênh nguồn YouTube. Tính sẵn có có thể thay đổi theo khu vực hoặc chính sách kênh. Hình concept là AI visualization từ storyboard tập 5, không phải ảnh trích của các phim tham chiếu.
